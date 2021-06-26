@@ -1,0 +1,6 @@
+id=google-public-dns-ipv4
+name=Google Public DNS IPv4
+version=v1.0.0
+versionCode=10000
+author=omerakgoz34
+description=Systemless Google DNS for IPv4
